@@ -1,5 +1,62 @@
-# 💫 About Me:
-👋 Hi! I'm a passionate programme, currently studying at university. I love working on projects that challenge me to learn and grow. I have experience in Python, C#, and Java, and I'm always excited to contribute to open-source projects.<br><br>🚀 My goal is to continuously improve my skills in software development, particularly in desktop and mobile app development, and to explore new technologies.
+<!-- Centrar este bloque, si quieres usar una imagen o logo -->
+<div align="center">
+  <img src="URL_DE_TU_LOGO_O_FOTO" alt="Mauricio Alexander Pérez" width="150" />
+  
+  <h1>Hola 👋, soy Mauricio Alexander Pérez</h1>
+  
+  <p>
+    Desarrollador de Software │ Apasionado por aprender │ Colaborador Open Source
+  </p>
+
+  <!-- Badges de tecnologías, estado, etc. -->
+  <p>
+    ![Python](https://img.shields.io/badge/Python-FFDE57?style=for-the-badge&logo=python&logoColor=blue)
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub followers](https://img.shields.io/github/followers/MauricioAlexanderP?style=social)
+    ![Stars](https://img.shields.io/github/stars/MauricioAlexanderP?style=social)
+  </p>
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+- Estudiante / desarrollador autodidacta con experiencia en **Python**, **C#**, **Java** y otras tecnologías.
+- Me encanta trabajar en proyectos reales que resuelvan problemas, codear con buenas prácticas y colaborar con la comunidad open source.
+- Disfruto aprendiendo nuevas tecnologías y adaptándome rápido.
+
+---
+
+## 🧩 Habilidades técnicas
+
+> Aquí puedes insertar un bloque de íconos si lo prefieres
+
+![Habilidades](https://skillicons.dev/icons?i=python,java,csharp,html,css,js,kotlin,git,github)  
+
+**Lenguajes:** Python · C# · Java · JavaScript · Kotlin  
+**Tools / Frameworks:** .NET · Android · Firebase · MySQL · Arduino · Laravel · Django.
+
+---
+
+## 🔗 Contacto & redes
+
+- 📫 Email: tu_email@ejemplo.com  
+- 🔗 LinkedIn: [linkedin.com/in/tu-linkedin](#)  
+- 🌐 Sitio web / portafolio: [tusitio.com](#)  
+
+---
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MauricioAlexanderP&show_icons=true&theme=radical" alt="Mauricio Alexander Pérez Stats" />
+</p>
+
+---
+
+Gracias por visitar mi perfil 😊
 
 
 ## 🌐 Socials:
