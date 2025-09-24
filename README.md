@@ -1,12 +1,10 @@
 <h1 align="center">Hola, soy Mauricio Alexander Pérez</h1>
 <h3 align="center">Desarrollador de Software │ Apiante aprendiz │ Colaborador Open Source</h3>
 
-
 - Estudiante / desarrollador autodidacta con experiencia en **Python**, **C#**, **Java** y otras tecnologías.
 - Me encanta trabajar en proyectos reales que resuelvan problemas, codear con buenas prácticas y colaborar con la comunidad open source.
 - Disfruto aprendiendo nuevas tecnologías y adaptándome rápido.
 
----
 ---
 
 ### 📫 Conectemos
